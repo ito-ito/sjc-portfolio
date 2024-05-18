@@ -4,8 +4,16 @@
 
 <img src="https://github.com/ito-ito/sjc-portfolio/assets/1092010/eb9508ad-ca3b-413a-989a-71bc53469c14">
 
-検証のためのポートフォリオです
+検証のためのポートフォリオです  
 掲載されている情報はダミーデータで事実とは異なります
+
+## Technology Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,ruby,rails,postgres,docker&perline=4" />
+  </a>
+</p>
 
 ## Getting Started
 
@@ -35,7 +43,7 @@
 
 4. access to page
 
-   access to [localhost:8000/](localhost:8000)
+   access to [localhost:8000/](http:localhost:8000)
 
 ## Stopping container
 
